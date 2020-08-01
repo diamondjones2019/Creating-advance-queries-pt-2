@@ -13,3 +13,7 @@ join payment p
 on c.customer_id = p.payment_id
 group by c.customer_id
 order by c.customer_id;
+
+
+
+/*PRACTICING HOW TO UPLOAD FILE TO MYSQL*/
